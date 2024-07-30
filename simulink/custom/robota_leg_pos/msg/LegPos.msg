@@ -1,0 +1,12 @@
+float64 rb_alfa
+float64 rb_beta
+float64 rb_gamma
+float64 rf_alfa
+float64 rf_beta
+float64 rf_gamma
+float64 lb_alfa
+float64 lb_beta
+float64 lb_gamma
+float64 lf_alfa
+float64 lf_beta
+float64 lf_gamma
